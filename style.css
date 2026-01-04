@@ -1,0 +1,18 @@
+body{
+  background:#0b1220;
+  color:#e5e7eb;
+  font-family:Arial;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+.app{
+  background:#111827;
+  padding:20px;
+  border-radius:12px;
+  width:260px;
+}
+input{width:100%; padding:8px; margin-bottom:8px;}
+button{padding:8px; width:100%;}
+li{margin-top:6px;}
